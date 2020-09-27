@@ -12,6 +12,7 @@ h2  {
 
 body {
   font-family: 'Roboto', sans-serif;
+  background-color: #1a191a;
 }
 body, .button:after {
   background: #1a191a;
@@ -100,8 +101,8 @@ footer a, footer a:after {
   text-decoration: none;
   padding: .5em;
   margin: .5em;
-  font-size: 2em;
-  font-weight: bold;
+  font-size: 15px;
+  font-weight: lighter;
   transition: all .5s;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
